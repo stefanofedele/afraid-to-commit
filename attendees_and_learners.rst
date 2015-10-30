@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -23,7 +23,7 @@ PyCon Ireland in Dublin, 26th October 2015
 * Art Knipe https://github.com/artkgithub
 * Miao Li https://github.com/masonmiaoli
 * Sarah Jackson
-* Stefano Fedele https://github.com/stefanofedele
+* Stefano Fedele https://github.com/stefanofedele fedelemail@yahoo.it
 
 PyCon UK in Coventry, 21st September 2015
 -----------------------------------------
